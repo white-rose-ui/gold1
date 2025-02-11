@@ -1,2 +1,1 @@
-# gold1
-Hello this file for gold1
+#Selamat pagi mari latihan git lagi
